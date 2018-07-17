@@ -1,0 +1,3 @@
+open thispatcher
+folder "Main:/Users/dfine/Library/Application Support/Cycling '74/Max 7/temp-Max/mxt"
+appicon "Main:/Users/dfine/Downloads/icns/Sayonara Spinning Ball.icns"
